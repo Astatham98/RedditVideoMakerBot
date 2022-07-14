@@ -44,6 +44,12 @@ background_options = {
         "Achy Gaming",
         lambda t: ("center", 480 + t),
     ),
+    "trackmania": (  # Trackmania playthrough
+        "https://www.youtube.com/watch?v=elYBfQ1qb6M",
+        "trackmania.mp4",
+        "Marius89TM",
+        "center",
+    ),
 }
 
 
